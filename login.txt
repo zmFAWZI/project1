@@ -1,1 +1,2 @@
 Log 1 : logged user ziad
+Log 2 : logged user khaled
