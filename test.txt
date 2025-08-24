@@ -2,3 +2,4 @@ Test 1 - first test git
 Test 2 - 2nd test git (add code line 2 test 2)
 Test 3 - 3rd test git (add feature in line 3 test 3)
 Test 4 - 4th test git (add revert test test 4)
+Test 5 - 5th test git (add code line 5 test 5)
