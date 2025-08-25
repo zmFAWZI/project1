@@ -1,3 +1,4 @@
 Log 1 : logged user ziad
 Log 2 : logged user khaled
 Log 3 : Logged user fawzi (done on github - simulation)
+Log 4 : Logged user ali
